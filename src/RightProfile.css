@@ -1,0 +1,5 @@
+.rightprofile{
+    display: flex;
+    flex-direction: column;
+    flex: 0.20;
+}
